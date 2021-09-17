@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  Project 4: West Nile Virus Prediction
+# West Nile Virus Prediction: Kaggle Challenge
 ---
 Mubina | Wei Hua | Liubin  
 
@@ -9,10 +9,10 @@ As a data scientist from a consultancy firm, our task is to build a model and ma
 
 Our primary stakeholders will be the client (CDC) and the secondary stakeholders will be the government of Chicago. The given dataset consist of the following data:
 
-- Main dataset where public health workers in Chicago set up mosquito traps across the city to test for the presence of West Nile virus. 
-- Spray data which records the details of their spraying such as location and date in order to reduce the number of mosquitoes in the area. 
-- Weather Data which records the condition of the city. It is believed that hot and dry conditions are more favourable for West Nile virus as compared to cold and wet. 
-- Map from openstreet map 
+- Main dataset where public health workers in Chicago set up mosquito traps across the city to test for the presence of West Nile virus.
+- Spray data which records the details of their spraying such as location and date in order to reduce the number of mosquitoes in the area.
+- Weather Data which records the condition of the city. It is believed that hot and dry conditions are more favourable for West Nile virus as compared to cold and wet.
+- Map from openstreet map
 
 The model will then be evaluated by ROC AUC score and recall score. The objective of the model is to get a high  ROC AUC score and recall score.
 
@@ -120,4 +120,4 @@ As for the prediction model, we hoped to improve the model by :
 |avgspeed|int|weather|average speed(Based on miles per hour)|
 
 ### Project planning
-This is the [link](https://docs.google.com/spreadsheets/d/1Mf_rOQT043UL6CQwaP-Wx0SBXX_oEWUg55d2J6JJuT0/edit#gid=0) to our project planning. 
+This is the [link](https://docs.google.com/spreadsheets/d/1Mf_rOQT043UL6CQwaP-Wx0SBXX_oEWUg55d2J6JJuT0/edit#gid=0) to our project planning.
